@@ -46,8 +46,8 @@
 <a href="https://www.credly.com/badges/8a783bd7-251c-4fb0-bd3b-7d7322e1d823/public_url"> <code><img height="20" alt="aws-saa" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></code></a>
 
 
-![saka2jp's github stats](https://github-readme-stats-saka2jp.vercel.app/api?username=saka2jp&count_private=true&show_icons=true&hide_title=true&theme=tokyonight&cache_seconds=43200)
 ![Top Langs](https://github-readme-stats-saka2jp.vercel.app/api/top-langs/?username=saka2jp&hide=html,ruby,css&layout=compact&theme=tokyonight&cache_seconds=43200)
+![saka2jp's github stats](https://github-readme-stats-saka2jp.vercel.app/api?username=saka2jp&count_private=true&show_icons=true&hide_title=true&theme=tokyonight&cache_seconds=43200)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=saka2jp&theme=tokyonight&row=1&column=7)
 
