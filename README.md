@@ -48,5 +48,6 @@
 
 ![saka2jp's github stats](https://github-readme-stats-saka2jp.vercel.app/api?username=saka2jp&count_private=true&show_icons=true&hide_title=true&theme=tokyonight&cache_seconds=43200)
 ![Top Langs](https://github-readme-stats-saka2jp.vercel.app/api/top-langs/?username=saka2jp&hide=html,ruby,css&layout=compact&theme=tokyonight&cache_seconds=43200)
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=saka2jp&theme=tokyonight&row=1&column=7)
 
