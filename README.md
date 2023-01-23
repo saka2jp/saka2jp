@@ -15,7 +15,7 @@
 
 **About me**
 
-- 💼 Freelance Engineer
+- 💼 Software Developer in Japan🇯🇵
 
 - 📝 My flagship [blog](https://jumpyoshim.hatenablog.com/entry/how-to-implement-python-code-with-high-maintainability-and-readability), 400 bookmark on Hatena
 
