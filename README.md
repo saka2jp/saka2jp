@@ -21,8 +21,11 @@
 
 **Badges**
 
-<a href="https://www.credly.com/badges/8a783bd7-251c-4fb0-bd3b-7d7322e1d823/public_url">
+<a href="https://google.accredible.com/480392f1-d4cd-487c-bdd7-1f1251bfc836">
     <img height="50" alt="aws-saa" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
+</a>
+<a href="https://google.accredible.com/480392f1-d4cd-487c-bdd7-1f1251bfc836#gs.0hs6vj">
+    <img height="50" alt="pca" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80406060">
 </a>
 
 <br/>
