@@ -15,9 +15,13 @@
 
 - ❤️ I love writing Golang
 
-**Skills**
+**Mainly Languages and Tools**
 
-[![Skills](https://skillicons.dev/icons?i=go,ts,js,python,django,react,vue,nextjs,nuxtjs,gatsby,graphql,mysql,redis,docker,kubernetes,grafana,aws,gcp,firebase,github,githubactions,gitlab,netlify,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=go,graphql,mysql,redis,docker,githubactions,gitlab,vscode)](https://skillicons.dev)
+
+**Lightly Languages and Tools**
+
+[![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,aws,gcp)](https://skillicons.dev)
 
 **Badges**
 
