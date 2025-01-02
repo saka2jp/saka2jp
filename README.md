@@ -21,7 +21,7 @@
 
 **Lightly Languages and Tools**
 
-[![Skills](https://skillicons.dev/icons?i=ts,react,nextjs,aws,gcp)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,ts,react,nextjs,aws,gcp)](https://skillicons.dev)
 
 **Badges**
 
