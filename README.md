@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello World, I'm saka2jp!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <a href="https://www.linkedin.com/in/saka2jp/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="https://twitter.com/saka2jp"><img align="left" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://x.com/saka2jp"><img align="left" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:saka2jp@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 <br/>
 <br/>
@@ -37,6 +37,3 @@
 
 ![Top Langs](https://github-readme-stats-saka2jp.vercel.app/api/top-langs/?username=saka2jp&hide=html,ruby,css&layout=compact&theme=tokyonight&cache_seconds=43200)
 ![saka2jp's github stats](https://github-readme-stats-saka2jp.vercel.app/api?username=saka2jp&count_private=true&show_icons=true&hide_title=true&theme=tokyonight&cache_seconds=43200&card_width=400)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=saka2jp&theme=tokyonight&row=1&column=7)
-
