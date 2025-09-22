@@ -13,7 +13,7 @@
 
 - 📝 My flagship [blog](https://jumpyoshim.hatenablog.com/entry/how-to-implement-python-code-with-high-maintainability-and-readability), 400+ bookmark on Hatena
 
-- ❤️ I love writing Golang
+- ❤️ I love writing Golang and TypeScript
 
 **Mainly Languages and Tools**
 
