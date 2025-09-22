@@ -17,11 +17,11 @@
 
 **Mainly Languages and Tools**
 
-[![Skills](https://skillicons.dev/icons?i=go,graphql,mysql,redis,docker,githubactions,gitlab,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=go,ts,react,nextjs,graphql,mysql,redis,docker,githubactions,gitlab,vscode)](https://skillicons.dev)
 
 **Lightly Languages and Tools**
 
-[![Skills](https://skillicons.dev/icons?i=python,ts,react,nextjs,aws,gcp)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,aws,gcp)](https://skillicons.dev)
 
 **Badges**
 
