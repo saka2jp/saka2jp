@@ -25,7 +25,7 @@
 
 **Badges**
 
-<a href="https://google.accredible.com/480392f1-d4cd-487c-bdd7-1f1251bfc836">
+<a href="https://www.credly.com/badges/8a783bd7-251c-4fb0-bd3b-7d7322e1d823/public_url">
     <img height="50" alt="aws-saa" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
 </a>
 <a href="https://www.credly.com/badges/f51ef6b0-5ceb-4fad-9224-08312d53e3d7/public_url">
