@@ -28,8 +28,8 @@
 <a href="https://google.accredible.com/480392f1-d4cd-487c-bdd7-1f1251bfc836">
     <img height="50" alt="aws-saa" src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png">
 </a>
-<a href="https://google.accredible.com/480392f1-d4cd-487c-bdd7-1f1251bfc836#gs.0hs6vj">
-    <img height="50" alt="pca" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80406060">
+<a href="https://www.credly.com/badges/f51ef6b0-5ceb-4fad-9224-08312d53e3d7/public_url">
+    <img height="50" alt="pca" src="https://images.credly.com/size/220x220/images/d96faaa1-8c14-4d2d-8927-46f33ccf4523/image.png">
 </a>
 
 <br/>
